@@ -102,13 +102,25 @@ class Program
             else if (enemys[rnd].Health <= 0)
             {
                 Console.WriteLine("Вы победили");
+
             }
         }
 
         //   warrior.TakeDamage(10f);
-        // warrior.ShowCharacteristics();
+        // warrior.ShowCharacteristics()hklkl;
+
 
         Console.ReadKey();
+
+
+
+
+
+
+
+
+
+
 
     }
 }
